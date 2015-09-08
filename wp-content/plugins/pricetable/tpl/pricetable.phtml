@@ -1,0 +1,23 @@
+<?php foreach((array) $table as $i => $column) : ?>
+    <div class="<?php print implode(' ', $column['classes']) ?>" style="width:<?php print $column['width'] ?>%">
+<ul class="pricing-table">
+    <li class="title">
+        <div class="nazv"><?php print $column['title'] ?></div>
+        <div class="item-price"><?php print $column['price'] ?></div>
+        <div class="mini-desc"><?php print $column['detail'] ?></div>
+    </li>
+    <li class="dop-text"><?php print $column['addinfo'] ?></li>
+    <?php if(!empty($column['features'])) : ?>
+    <?php foreach($column['features'] as $j => $feature) : ?>
+
+
+            <li class="bullet-item"><?php print $feature['title'] ?></li>
+
+        <?php endforeach ?>
+    <?php endif; ?>
+
+
+    <li class="cta-button"><a class="button" href="<?php print empty($column['url']) ? '#' : $column['url'] ?>"><?php print empty($column['button']) ? __('Select', 'pricetable') : $column['button'] ?></a></li>
+</ul>
+    </div>
+<?php endforeach ?>

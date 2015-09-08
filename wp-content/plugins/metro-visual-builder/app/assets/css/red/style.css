@@ -1,0 +1,83 @@
+.panel_tabs li a{
+  border-top: 2px solid #FF3300;
+}
+
+.panel_tabs li a.selected{
+  border-top: 2px solid #CC0000;
+  color: #CC0000;
+}
+
+.accordion dt{
+  background-image: url(../../images/site/red/plus-sign.png);
+  border-color: #CC0000;
+}
+
+.accordion dt.active a{
+  color: #CC0000;
+}
+
+.accordion dt.active{
+  background-image: url(../../images/site/red/minus-sign.png);
+  border-color: #FF3300;
+}
+
+.skill_fg{
+  background-color: #CC0000;
+}
+
+.skill_bg{
+  background-color: #eee;
+}
+
+.step_number, .servIcn{
+  background-color: #CC0000;
+}
+
+.mask{
+  background-image: url(../../images/site/red/mask.png);
+}
+
+a.bshaper_button{
+  background-color: #CC0000;
+}
+
+a.bshaper_button:hover{
+  background-color: #990000;
+  color: #fff;
+}
+
+.mvb_content h1, .mvb_content h2, .mvb_content h3, .mvb_content h4, .mvb_content h5, .mvb_content h6{
+  color: #CC0000;
+}
+
+.mvb_testimonials{
+  list-style: none;
+}
+
+.servIcn{
+  background-color: #CC0000;
+}
+
+.homeSubtit span a{
+  color: #CC0000;
+}
+
+.bx-controls-direction a{
+  background-color: #cc0000;
+}
+
+.postInner h2.archTitle a{
+  color: #cc0000;
+}
+
+.postMetaTags ul li a{
+  color: #cc0000;
+}
+
+.bx-controls-direction a, .carf_controls a{
+  background-color: #cc0000;
+}
+
+.bx-controls-direction a:hover, .carf_controls a:hover{
+  background-color: #990000;
+}

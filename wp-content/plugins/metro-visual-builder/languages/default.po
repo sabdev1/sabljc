@@ -1,0 +1,1182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mvb\n"
+"POT-Creation-Date: 2013-07-09 18:47+0200\n"
+"PO-Revision-Date: 2013-07-09 18:47+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: app\n"
+
+#: app/gears/core/metro_ajax.php:45 app/gears/core/metro_ajax.php:149
+msgid "Background Image"
+msgstr ""
+
+#: app/gears/core/metro_ajax.php:51 app/gears/core/metro_ajax.php:155
+msgid "Background repeat"
+msgstr ""
+
+#: app/gears/core/metro_ajax.php:59 app/gears/core/metro_ajax.php:163
+msgid "Background position"
+msgstr ""
+
+#: app/gears/core/metro_ajax.php:69 app/gears/core/metro_ajax.php:173
+#: app/gears/libraries/mvb_call_to_action.php:61
+#: app/gears/libraries/mvb_skills.php:61
+msgid "Background Color"
+msgstr ""
+
+#: app/gears/core/metro_ajax.php:75 app/gears/core/metro_ajax.php:179
+msgid "Text Color"
+msgstr ""
+
+#: app/gears/core/metro_ajax.php:81 app/gears/core/metro_ajax.php:185
+#: app/gears/libraries/mvb_accordion.php:95
+#: app/gears/libraries/mvb_blog_posts.php:139
+#: app/gears/libraries/mvb_button.php:69
+#: app/gears/libraries/mvb_call_to_action.php:118
+#: app/gears/libraries/mvb_clients.php:129
+#: app/gears/libraries/mvb_content.php:61
+#: app/gears/libraries/mvb_document_viewer.php:78
+#: app/gears/libraries/mvb_flickr.php:101
+#: app/gears/libraries/mvb_gallery.php:113
+#: app/gears/libraries/mvb_gmaps.php:85
+#: app/gears/libraries/mvb_photogrid.php:88
+#: app/gears/libraries/mvb_pinterest_follow.php:78
+#: app/gears/libraries/mvb_presentation_boxes.php:117
+#: app/gears/libraries/mvb_presentation_boxes.php:127
+#: app/gears/libraries/mvb_raw_html.php:66
+#: app/gears/libraries/mvb_rss_feed.php:120
+#: app/gears/libraries/mvb_separator.php:40
+#: app/gears/libraries/mvb_separator_text.php:53
+#: app/gears/libraries/mvb_service_description.php:99
+#: app/gears/libraries/mvb_skills.php:102 app/gears/libraries/mvb_tabs.php:89
+#: app/gears/libraries/mvb_testimonials.php:109
+#: app/gears/libraries/mvb_text.php:138 app/gears/libraries/mvb_video.php:78
+#: app/gears/libraries/mvb_vimeo.php:78 app/gears/libraries/mvb_youtube.php:78
+msgid "Additional CSS classes"
+msgstr ""
+
+#: app/gears/core/metro_ajax.php:82 app/gears/core/metro_ajax.php:186
+#: app/gears/libraries/mvb_accordion.php:88
+#: app/gears/libraries/mvb_accordion.php:96
+#: app/gears/libraries/mvb_blog_posts.php:140
+#: app/gears/libraries/mvb_button.php:70
+#: app/gears/libraries/mvb_call_to_action.php:119
+#: app/gears/libraries/mvb_clients.php:130
+#: app/gears/libraries/mvb_content.php:62
+#: app/gears/libraries/mvb_document_viewer.php:79
+#: app/gears/libraries/mvb_flickr.php:102
+#: app/gears/libraries/mvb_gallery.php:114
+#: app/gears/libraries/mvb_gmaps.php:86
+#: app/gears/libraries/mvb_photogrid.php:89
+#: app/gears/libraries/mvb_pinterest_follow.php:79
+#: app/gears/libraries/mvb_presentation_boxes.php:118
+#: app/gears/libraries/mvb_presentation_boxes.php:128
+#: app/gears/libraries/mvb_raw_html.php:67
+#: app/gears/libraries/mvb_rss_feed.php:121
+#: app/gears/libraries/mvb_separator.php:41
+#: app/gears/libraries/mvb_separator_text.php:54
+#: app/gears/libraries/mvb_service_description.php:100
+#: app/gears/libraries/mvb_skills.php:103 app/gears/libraries/mvb_tabs.php:90
+#: app/gears/libraries/mvb_testimonials.php:110
+#: app/gears/libraries/mvb_text.php:139 app/gears/libraries/mvb_video.php:79
+#: app/gears/libraries/mvb_vimeo.php:79 app/gears/libraries/mvb_youtube.php:79
+msgid "Separated by space"
+msgstr ""
+
+#: app/gears/core/metro_ajax.php:86 app/gears/core/metro_ajax.php:190
+msgid "Column Padding"
+msgstr ""
+
+#: app/gears/core/metro_ajax.php:90 app/gears/core/metro_ajax.php:194
+msgid "Enter a value (eg: 15px, or 2em, etc)"
+msgstr ""
+
+#: app/gears/core/metro_ajax.php:95 app/gears/core/metro_ajax.php:199
+msgid "Top"
+msgstr ""
+
+#: app/gears/core/metro_ajax.php:101 app/gears/core/metro_ajax.php:211
+msgid "Bottom"
+msgstr ""
+
+#: app/gears/core/metro_ajax.php:107 app/gears/core/metro_ajax.php:223
+msgid "Additional CSS rules"
+msgstr ""
+
+#: app/gears/core/metro_ajax.php:205
+msgid "Right"
+msgstr ""
+
+#: app/gears/core/metro_ajax.php:217
+msgid "Left"
+msgstr ""
+
+#: app/gears/core/metro_ajax.php:228
+msgid "Column span for small devices"
+msgstr ""
+
+#: app/gears/core/metro_factory.php:74
+msgid "Metro Visual Builder"
+msgstr ""
+
+#: app/gears/core/metro_factory.php:125 app/html/section_types.php:13
+msgid "row settings"
+msgstr ""
+
+#: app/gears/core/metro_factory.php:127 app/html/section_types.php:14
+msgid "delete section"
+msgstr ""
+
+#: app/gears/core/metro_factory.php:129 app/html/section_types.php:24
+msgid "Add module"
+msgstr ""
+
+#: app/gears/core/metro_factory.php:130 app/html/section_types.php:25
+msgid "Column settings"
+msgstr ""
+
+#: app/gears/core/metro_form_builder.php:128
+#: app/gears/core/metro_form_builder.php:149
+msgid "remove"
+msgstr ""
+
+#: app/gears/core/metro_form_builder.php:332
+msgid "Select page"
+msgstr ""
+
+#: app/gears/core/metro_form_builder.php:382
+msgid "Upload file"
+msgstr ""
+
+#: app/gears/core/metro_form_builder.php:383
+msgid "Delete file"
+msgstr ""
+
+#: app/gears/core/metro_form_builder.php:414
+msgid "Upload"
+msgstr ""
+
+#: app/gears/core/metro_options.php:58
+msgid "The options were saved!"
+msgstr ""
+
+#: app/gears/core/metro_options.php:63
+msgid "The options were NOT saved!"
+msgstr ""
+
+#: app/gears/core/metro_options.php:93
+msgid "Pages"
+msgstr ""
+
+#: app/gears/core/metro_options.php:93
+msgid "Posts"
+msgstr ""
+
+#: app/gears/core/metro_options.php:101
+msgid "Default Grid"
+msgstr ""
+
+#: app/gears/core/metro_options.php:101
+msgid "Custom"
+msgstr ""
+
+#: app/gears/core/metro_options.php:101
+msgid "Foundation v3"
+msgstr ""
+
+#: app/gears/core/metro_options.php:101
+msgid "Foundation v4"
+msgstr ""
+
+#: app/gears/core/metro_options.php:101
+msgid "Bootstrap"
+msgstr ""
+
+#: app/gears/core/metro_options.php:103
+#: app/gears/helpers/mvb_private_helper.php:47
+#: app/gears/helpers/mvb_private_helper.php:58
+msgid "None"
+msgstr ""
+
+#: app/gears/core/metro_options.php:103
+msgid "MVB Red"
+msgstr ""
+
+#: app/gears/core/metro_options.php:103
+msgid "MVB Green"
+msgstr ""
+
+#: app/gears/core/metro_options.php:103
+msgid "MVB Blue"
+msgstr ""
+
+#: app/gears/helpers/mvb_private_helper.php:48
+msgid "repeat"
+msgstr ""
+
+#: app/gears/helpers/mvb_private_helper.php:49
+msgid "no-repeat"
+msgstr ""
+
+#: app/gears/helpers/mvb_private_helper.php:50
+msgid "repeat-y"
+msgstr ""
+
+#: app/gears/helpers/mvb_private_helper.php:51
+msgid "repeat-x"
+msgstr ""
+
+#: app/gears/helpers/mvb_private_helper.php:171
+msgid "Yes"
+msgstr ""
+
+#: app/gears/helpers/mvb_private_helper.php:171
+msgid "No"
+msgstr ""
+
+#: app/gears/libraries/mvb_accordion.php:16
+msgid "Accordion module"
+msgstr ""
+
+#: app/gears/libraries/mvb_accordion.php:17
+msgid "Add an accordion"
+msgstr ""
+
+#: app/gears/libraries/mvb_accordion.php:40
+#: app/gears/libraries/mvb_blog_posts.php:40
+#: app/gears/libraries/mvb_button.php:40
+#: app/gears/libraries/mvb_call_to_action.php:40
+#: app/gears/libraries/mvb_clients.php:40
+#: app/gears/libraries/mvb_content.php:40
+#: app/gears/libraries/mvb_document_viewer.php:40
+#: app/gears/libraries/mvb_flickr.php:40
+#: app/gears/libraries/mvb_gallery.php:40 app/gears/libraries/mvb_gmaps.php:40
+#: app/gears/libraries/mvb_photogrid.php:40
+#: app/gears/libraries/mvb_pinterest_follow.php:40
+#: app/gears/libraries/mvb_presentation_boxes.php:40
+#: app/gears/libraries/mvb_presentation_boxes.php:98
+#: app/gears/libraries/mvb_raw_html.php:40
+#: app/gears/libraries/mvb_rss_feed.php:40
+#: app/gears/libraries/mvb_service_description.php:40
+#: app/gears/libraries/mvb_skills.php:40 app/gears/libraries/mvb_tabs.php:40
+#: app/gears/libraries/mvb_testimonials.php:40
+#: app/gears/libraries/mvb_testimonials.php:68
+#: app/gears/libraries/mvb_text.php:40 app/gears/libraries/mvb_video.php:40
+#: app/gears/libraries/mvb_vimeo.php:40 app/gears/libraries/mvb_youtube.php:40
+msgid "Title"
+msgstr ""
+
+#: app/gears/libraries/mvb_accordion.php:46
+#: app/gears/libraries/mvb_blog_posts.php:46
+#: app/gears/libraries/mvb_call_to_action.php:46
+#: app/gears/libraries/mvb_clients.php:46
+#: app/gears/libraries/mvb_content.php:46
+#: app/gears/libraries/mvb_document_viewer.php:46
+#: app/gears/libraries/mvb_flickr.php:46
+#: app/gears/libraries/mvb_gallery.php:46 app/gears/libraries/mvb_gmaps.php:46
+#: app/gears/libraries/mvb_photogrid.php:46
+#: app/gears/libraries/mvb_pinterest_follow.php:46
+#: app/gears/libraries/mvb_presentation_boxes.php:46
+#: app/gears/libraries/mvb_raw_html.php:46
+#: app/gears/libraries/mvb_rss_feed.php:46
+#: app/gears/libraries/mvb_service_description.php:46
+#: app/gears/libraries/mvb_skills.php:46 app/gears/libraries/mvb_tabs.php:46
+#: app/gears/libraries/mvb_testimonials.php:46
+#: app/gears/libraries/mvb_text.php:46 app/gears/libraries/mvb_video.php:46
+#: app/gears/libraries/mvb_vimeo.php:46 app/gears/libraries/mvb_youtube.php:46
+msgid "Heading"
+msgstr ""
+
+#: app/gears/libraries/mvb_accordion.php:54
+#: app/gears/libraries/mvb_blog_posts.php:54
+#: app/gears/libraries/mvb_call_to_action.php:54
+#: app/gears/libraries/mvb_clients.php:54
+#: app/gears/libraries/mvb_content.php:54
+#: app/gears/libraries/mvb_document_viewer.php:54
+#: app/gears/libraries/mvb_flickr.php:54
+#: app/gears/libraries/mvb_gallery.php:54 app/gears/libraries/mvb_gmaps.php:54
+#: app/gears/libraries/mvb_photogrid.php:54
+#: app/gears/libraries/mvb_pinterest_follow.php:54
+#: app/gears/libraries/mvb_presentation_boxes.php:54
+#: app/gears/libraries/mvb_raw_html.php:54
+#: app/gears/libraries/mvb_rss_feed.php:54
+#: app/gears/libraries/mvb_separator_text.php:46
+#: app/gears/libraries/mvb_service_description.php:54
+#: app/gears/libraries/mvb_skills.php:54 app/gears/libraries/mvb_tabs.php:54
+#: app/gears/libraries/mvb_testimonials.php:54
+#: app/gears/libraries/mvb_text.php:54 app/gears/libraries/mvb_video.php:54
+#: app/gears/libraries/mvb_vimeo.php:54 app/gears/libraries/mvb_youtube.php:54
+msgid "Color"
+msgstr ""
+
+#: app/gears/libraries/mvb_accordion.php:61 app/html/editor.php:2
+#: app/html/editor.php:9
+msgid "Add section"
+msgstr ""
+
+#: app/gears/libraries/mvb_accordion.php:62
+msgid "Section"
+msgstr ""
+
+#: app/gears/libraries/mvb_accordion.php:63
+#: app/gears/libraries/mvb_accordion.php:68
+msgid "Section Title"
+msgstr ""
+
+#: app/gears/libraries/mvb_accordion.php:74
+msgid "Open"
+msgstr ""
+
+#: app/gears/libraries/mvb_accordion.php:82
+msgid "Section content"
+msgstr ""
+
+#: app/gears/libraries/mvb_accordion.php:87
+msgid "Additional CSS classes for this section"
+msgstr ""
+
+#: app/gears/libraries/mvb_accordion.php:103
+#: app/gears/libraries/mvb_clients.php:137
+#: app/gears/libraries/mvb_flickr.php:94
+#: app/gears/libraries/mvb_gallery.php:121
+#: app/gears/libraries/mvb_photogrid.php:96
+#: app/gears/libraries/mvb_rss_feed.php:128
+#: app/gears/libraries/mvb_tabs.php:97
+#: app/gears/libraries/mvb_testimonials.php:117
+msgid "Unique ID"
+msgstr ""
+
+#: app/gears/libraries/mvb_accordion.php:104
+#: app/gears/libraries/mvb_tabs.php:98
+msgid "Must be unique for every tab on the page."
+msgstr ""
+
+#: app/gears/libraries/mvb_accordion.php:110
+msgid "Toggle sections"
+msgstr ""
+
+#: app/gears/libraries/mvb_blog_posts.php:16
+msgid "Blog Posts module"
+msgstr ""
+
+#: app/gears/libraries/mvb_blog_posts.php:17
+msgid "Add your blog posts"
+msgstr ""
+
+#: app/gears/libraries/mvb_blog_posts.php:61
+msgid "Select category"
+msgstr ""
+
+#: app/gears/libraries/mvb_blog_posts.php:62
+msgid "Categories"
+msgstr ""
+
+#: app/gears/libraries/mvb_blog_posts.php:70
+msgid "Number of posts"
+msgstr ""
+
+#: app/gears/libraries/mvb_blog_posts.php:76
+msgid "Display a short excerpt"
+msgstr ""
+
+#: app/gears/libraries/mvb_blog_posts.php:85
+msgid "Length of excerpt"
+msgstr ""
+
+#: app/gears/libraries/mvb_blog_posts.php:86
+msgid "Number of words"
+msgstr ""
+
+#: app/gears/libraries/mvb_blog_posts.php:92
+#: app/gears/libraries/mvb_blog_posts.php:100
+msgid "Display the Thumbnail"
+msgstr ""
+
+#: app/gears/libraries/mvb_blog_posts.php:102
+msgid "Wide"
+msgstr ""
+
+#: app/gears/libraries/mvb_blog_posts.php:102
+msgid "Small"
+msgstr ""
+
+#: app/gears/libraries/mvb_blog_posts.php:108
+msgid "Display the meta"
+msgstr ""
+
+#: app/gears/libraries/mvb_blog_posts.php:116
+msgid "Display the tags"
+msgstr ""
+
+#: app/gears/libraries/mvb_blog_posts.php:124
+msgid "Display the \"read more\" link"
+msgstr ""
+
+#: app/gears/libraries/mvb_blog_posts.php:132
+msgid "\"Read more\" link text"
+msgstr ""
+
+#: app/gears/libraries/mvb_blog_posts.php:133
+msgid "read more"
+msgstr ""
+
+#: app/gears/libraries/mvb_button.php:16
+msgid "Button"
+msgstr ""
+
+#: app/gears/libraries/mvb_button.php:17
+msgid "Adds a button"
+msgstr ""
+
+#: app/gears/libraries/mvb_button.php:45
+#: app/gears/libraries/mvb_call_to_action.php:73
+#: app/gears/libraries/mvb_clients.php:90
+#: app/gears/libraries/mvb_presentation_boxes.php:83
+#: app/gears/libraries/mvb_service_description.php:61
+#: app/gears/libraries/mvb_text.php:93
+msgid "Link (URL)"
+msgstr ""
+
+#: app/gears/libraries/mvb_button.php:51
+#: app/gears/libraries/mvb_call_to_action.php:79
+#: app/gears/libraries/mvb_clients.php:96
+#: app/gears/libraries/mvb_presentation_boxes.php:89
+#: app/gears/libraries/mvb_service_description.php:67
+#: app/gears/libraries/mvb_text.php:99
+msgid "Link to page"
+msgstr ""
+
+#: app/gears/libraries/mvb_button.php:61
+msgid "Opens in a new tab?"
+msgstr ""
+
+#: app/gears/libraries/mvb_call_to_action.php:16
+msgid "Call to Action"
+msgstr ""
+
+#: app/gears/libraries/mvb_call_to_action.php:17
+msgid "Add call to action module"
+msgstr ""
+
+#: app/gears/libraries/mvb_call_to_action.php:67
+msgid "Border Color"
+msgstr ""
+
+#: app/gears/libraries/mvb_call_to_action.php:89
+#: app/gears/libraries/mvb_text.php:109
+msgid "Link on title"
+msgstr ""
+
+#: app/gears/libraries/mvb_call_to_action.php:97
+#: app/gears/libraries/mvb_clients.php:106
+#: app/gears/libraries/mvb_service_description.php:77
+#: app/gears/libraries/mvb_text.php:124
+msgid "Opens in new tab"
+msgstr ""
+
+#: app/gears/libraries/mvb_call_to_action.php:105
+msgid "Button text"
+msgstr ""
+
+#: app/gears/libraries/mvb_call_to_action.php:106
+#: app/gears/libraries/mvb_text.php:118
+msgid "Read more"
+msgstr ""
+
+#: app/gears/libraries/mvb_call_to_action.php:113
+#: app/gears/libraries/mvb_presentation_boxes.php:112
+#: app/gears/libraries/mvb_service_description.php:94
+#: app/gears/libraries/mvb_testimonials.php:80
+#: app/gears/libraries/mvb_text.php:133
+msgid "Content"
+msgstr ""
+
+#: app/gears/libraries/mvb_clients.php:16
+msgid "Client Logos Carousel"
+msgstr ""
+
+#: app/gears/libraries/mvb_clients.php:17
+msgid "Add clients logos carousel"
+msgstr ""
+
+#: app/gears/libraries/mvb_clients.php:63
+#: app/gears/libraries/mvb_testimonials.php:61
+msgid "Add client"
+msgstr ""
+
+#: app/gears/libraries/mvb_clients.php:64
+#: app/gears/libraries/mvb_testimonials.php:62
+msgid "Client"
+msgstr ""
+
+#: app/gears/libraries/mvb_clients.php:65
+#: app/gears/libraries/mvb_clients.php:76
+msgid "Client Name"
+msgstr ""
+
+#: app/gears/libraries/mvb_clients.php:69
+#: app/gears/libraries/mvb_gallery.php:67
+#: app/gears/libraries/mvb_photogrid.php:80
+#: app/gears/libraries/mvb_presentation_boxes.php:69
+#: app/gears/libraries/mvb_text.php:61
+msgid "Image"
+msgstr ""
+
+#: app/gears/libraries/mvb_clients.php:82
+msgid "Client URL"
+msgstr ""
+
+#: app/gears/libraries/mvb_clients.php:114
+msgid "Black and white effect"
+msgstr ""
+
+#: app/gears/libraries/mvb_clients.php:122
+msgid "View all text"
+msgstr ""
+
+#: app/gears/libraries/mvb_clients.php:123
+msgid "View all clients"
+msgstr ""
+
+#: app/gears/libraries/mvb_clients.php:138
+#: app/gears/libraries/mvb_flickr.php:95
+#: app/gears/libraries/mvb_gallery.php:122
+#: app/gears/libraries/mvb_photogrid.php:97
+#: app/gears/libraries/mvb_rss_feed.php:129
+#: app/gears/libraries/mvb_testimonials.php:118
+msgid "Must be unique for every module on the page."
+msgstr ""
+
+#: app/gears/libraries/mvb_content.php:16
+msgid "The content module"
+msgstr ""
+
+#: app/gears/libraries/mvb_content.php:17
+msgid "Adds the page content"
+msgstr ""
+
+#: app/gears/libraries/mvb_document_viewer.php:16
+msgid "Google Document Viewer"
+msgstr ""
+
+#: app/gears/libraries/mvb_document_viewer.php:17
+msgid "Adds a document viewer"
+msgstr ""
+
+#: app/gears/libraries/mvb_document_viewer.php:61
+msgid "Document URL"
+msgstr ""
+
+#: app/gears/libraries/mvb_document_viewer.php:66
+#: app/gears/libraries/mvb_gmaps.php:66 app/gears/libraries/mvb_video.php:66
+#: app/gears/libraries/mvb_vimeo.php:66 app/gears/libraries/mvb_youtube.php:66
+msgid "Width"
+msgstr ""
+
+#: app/gears/libraries/mvb_document_viewer.php:72
+#: app/gears/libraries/mvb_gmaps.php:72 app/gears/libraries/mvb_video.php:72
+#: app/gears/libraries/mvb_vimeo.php:72 app/gears/libraries/mvb_youtube.php:72
+msgid "Height"
+msgstr ""
+
+#: app/gears/libraries/mvb_document_viewer.php:84
+#: app/gears/libraries/mvb_video.php:84 app/gears/libraries/mvb_vimeo.php:84
+#: app/gears/libraries/mvb_youtube.php:84
+msgid "Leave width and height empty to make the video responsive!"
+msgstr ""
+
+#: app/gears/libraries/mvb_flickr.php:16
+msgid "Flickr Module"
+msgstr ""
+
+#: app/gears/libraries/mvb_flickr.php:17
+msgid "Adds a Flickr photostream"
+msgstr ""
+
+#: app/gears/libraries/mvb_flickr.php:61
+msgid "Flickr ID"
+msgstr ""
+
+#: app/gears/libraries/mvb_flickr.php:63
+msgid ""
+"Get it here: <a href=\"http://idgettr.com/\" target=\"_blank\">idGettr</a>"
+msgstr ""
+
+#: app/gears/libraries/mvb_flickr.php:69
+msgid "Number of photos"
+msgstr ""
+
+#: app/gears/libraries/mvb_flickr.php:76
+#: app/gears/libraries/mvb_gallery.php:89
+msgid "Number of columns"
+msgstr ""
+
+#: app/gears/libraries/mvb_flickr.php:86
+msgid "View profile link text"
+msgstr ""
+
+#: app/gears/libraries/mvb_flickr.php:87
+msgid "Visit our Flickr Page"
+msgstr ""
+
+#: app/gears/libraries/mvb_gallery.php:16
+msgid "Image gallery module"
+msgstr ""
+
+#: app/gears/libraries/mvb_gallery.php:17
+msgid "Add an image gallery"
+msgstr ""
+
+#: app/gears/libraries/mvb_gallery.php:61
+#: app/gears/libraries/mvb_photogrid.php:67
+msgid "Add photo"
+msgstr ""
+
+#: app/gears/libraries/mvb_gallery.php:62
+#: app/gears/libraries/mvb_photogrid.php:68
+msgid "Photo"
+msgstr ""
+
+#: app/gears/libraries/mvb_gallery.php:63
+#: app/gears/libraries/mvb_gallery.php:74
+#: app/gears/libraries/mvb_photogrid.php:69
+#: app/gears/libraries/mvb_photogrid.php:74
+msgid "Photo Title"
+msgstr ""
+
+#: app/gears/libraries/mvb_gallery.php:80
+msgid "Picture tags"
+msgstr ""
+
+#: app/gears/libraries/mvb_gallery.php:82
+msgid "Separate tags with commas"
+msgstr ""
+
+#: app/gears/libraries/mvb_gallery.php:97
+msgid "Isotope filtering"
+msgstr ""
+
+#: app/gears/libraries/mvb_gallery.php:105
+#: app/gears/libraries/mvb_presentation_boxes.php:75
+#: app/gears/libraries/mvb_text.php:75 app/gears/libraries/mvb_text.php:83
+msgid "Image format"
+msgstr ""
+
+#: app/gears/libraries/mvb_gmaps.php:16
+msgid "Google Maps"
+msgstr ""
+
+#: app/gears/libraries/mvb_gmaps.php:17
+msgid "Adds a Google map"
+msgstr ""
+
+#: app/gears/libraries/mvb_gmaps.php:61
+msgid "Google maps URL"
+msgstr ""
+
+#: app/gears/libraries/mvb_gmaps.php:78
+msgid "View text"
+msgstr ""
+
+#: app/gears/libraries/mvb_gmaps.php:79
+msgid "Our location"
+msgstr ""
+
+#: app/gears/libraries/mvb_gmaps.php:91
+msgid "Leave width and height empty to make the map responsive!"
+msgstr ""
+
+#: app/gears/libraries/mvb_photogrid.php:16
+msgid "Photogrid module"
+msgstr ""
+
+#: app/gears/libraries/mvb_photogrid.php:17
+msgid "Add a photogrid area"
+msgstr ""
+
+#: app/gears/libraries/mvb_photogrid.php:62
+msgid "Number of photos on every line"
+msgstr ""
+
+#: app/gears/libraries/mvb_pinterest_follow.php:16
+msgid "Pinterest / Follow"
+msgstr ""
+
+#: app/gears/libraries/mvb_pinterest_follow.php:17
+msgid "Add a Pinterest follow me button"
+msgstr ""
+
+#: app/gears/libraries/mvb_pinterest_follow.php:62
+msgid "Username"
+msgstr ""
+
+#: app/gears/libraries/mvb_pinterest_follow.php:68
+msgid "Button style"
+msgstr ""
+
+#: app/gears/libraries/mvb_presentation_boxes.php:16
+msgid "Presentation Boxes"
+msgstr ""
+
+#: app/gears/libraries/mvb_presentation_boxes.php:17
+msgid "Add a presentation box"
+msgstr ""
+
+#: app/gears/libraries/mvb_presentation_boxes.php:63
+msgid "Add box"
+msgstr ""
+
+#: app/gears/libraries/mvb_presentation_boxes.php:64
+msgid "Box"
+msgstr ""
+
+#: app/gears/libraries/mvb_presentation_boxes.php:65
+msgid "Box Title"
+msgstr ""
+
+#: app/gears/libraries/mvb_presentation_boxes.php:104
+#: app/gears/libraries/mvb_service_description.php:85
+msgid "Icon"
+msgstr ""
+
+#: app/gears/libraries/mvb_raw_html.php:16
+msgid "Raw HTML Module"
+msgstr ""
+
+#: app/gears/libraries/mvb_raw_html.php:17
+msgid "Adds html code"
+msgstr ""
+
+#: app/gears/libraries/mvb_raw_html.php:61
+msgid "HTML Code"
+msgstr ""
+
+#: app/gears/libraries/mvb_raw_javascript.php:16
+msgid "Raw Javascript Module"
+msgstr ""
+
+#: app/gears/libraries/mvb_raw_javascript.php:17
+msgid "Adds Javascript code"
+msgstr ""
+
+#: app/gears/libraries/mvb_raw_javascript.php:41
+msgid "Javascript Code"
+msgstr ""
+
+#: app/gears/libraries/mvb_raw_javascript.php:46
+msgid "The &lt;script&gt; tag will be automatically added."
+msgstr ""
+
+#: app/gears/libraries/mvb_rss_feed.php:16
+msgid "RSS Feed Module"
+msgstr ""
+
+#: app/gears/libraries/mvb_rss_feed.php:17
+msgid "Adds a RSS Feed"
+msgstr ""
+
+#: app/gears/libraries/mvb_rss_feed.php:61
+msgid "RSS Link"
+msgstr ""
+
+#: app/gears/libraries/mvb_rss_feed.php:66
+msgid "View more link"
+msgstr ""
+
+#: app/gears/libraries/mvb_rss_feed.php:72
+msgid "View more link text"
+msgstr ""
+
+#: app/gears/libraries/mvb_rss_feed.php:73
+msgid "View more"
+msgstr ""
+
+#: app/gears/libraries/mvb_rss_feed.php:80
+msgid "Number of items"
+msgstr ""
+
+#: app/gears/libraries/mvb_rss_feed.php:86
+msgid "Display the excerpt"
+msgstr ""
+
+#: app/gears/libraries/mvb_rss_feed.php:94
+msgid "Display the date"
+msgstr ""
+
+#: app/gears/libraries/mvb_rss_feed.php:102
+msgid "Display news ticker"
+msgstr ""
+
+#: app/gears/libraries/mvb_rss_feed.php:112
+#: app/gears/libraries/mvb_testimonials.php:101
+msgid "Pause duration of each slide"
+msgstr ""
+
+#: app/gears/libraries/mvb_rss_feed.php:113
+#: app/gears/libraries/mvb_testimonials.php:102
+msgid ""
+"(in miliseconds. Eg: 5000 = 5sec; 6500 = 6.5sec, etc. Default: 7500 = 7.5sec)"
+msgstr ""
+
+#: app/gears/libraries/mvb_separator.php:16
+msgid "Separator module"
+msgstr ""
+
+#: app/gears/libraries/mvb_separator.php:17
+msgid "Adds a separator"
+msgstr ""
+
+#: app/gears/libraries/mvb_separator_text.php:16
+msgid "Separator with text module"
+msgstr ""
+
+#: app/gears/libraries/mvb_separator_text.php:17
+msgid "Adds a separator with text"
+msgstr ""
+
+#: app/gears/libraries/mvb_separator_text.php:40
+msgid "Separator text"
+msgstr ""
+
+#: app/gears/libraries/mvb_service_description.php:16
+msgid "Service Description"
+msgstr ""
+
+#: app/gears/libraries/mvb_service_description.php:17
+msgid "Add service description boxes with icons"
+msgstr ""
+
+#: app/gears/libraries/mvb_shortcode.php:16
+msgid "Shortcode Module"
+msgstr ""
+
+#: app/gears/libraries/mvb_shortcode.php:17
+msgid "Add a custom shortcode"
+msgstr ""
+
+#: app/gears/libraries/mvb_shortcode.php:41
+msgid "Shortcode"
+msgstr ""
+
+#: app/gears/libraries/mvb_skills.php:16
+msgid "Skill-o-Meter module"
+msgstr ""
+
+#: app/gears/libraries/mvb_skills.php:17
+msgid "Add a skill section"
+msgstr ""
+
+#: app/gears/libraries/mvb_skills.php:68
+msgid "Foreground Color"
+msgstr ""
+
+#: app/gears/libraries/mvb_skills.php:75
+msgid "Add skill"
+msgstr ""
+
+#: app/gears/libraries/mvb_skills.php:76
+msgid "Skill"
+msgstr ""
+
+#: app/gears/libraries/mvb_skills.php:77 app/gears/libraries/mvb_skills.php:82
+msgid "Skill Title"
+msgstr ""
+
+#: app/gears/libraries/mvb_skills.php:88
+msgid "Skill percent"
+msgstr ""
+
+#: app/gears/libraries/mvb_skills.php:94
+msgid "Skill Color"
+msgstr ""
+
+#: app/gears/libraries/mvb_tabs.php:16
+msgid "Tabs module"
+msgstr ""
+
+#: app/gears/libraries/mvb_tabs.php:17
+msgid "Add tabs to the page"
+msgstr ""
+
+#: app/gears/libraries/mvb_tabs.php:61
+msgid "Add tab"
+msgstr ""
+
+#: app/gears/libraries/mvb_tabs.php:62
+msgid "Tab"
+msgstr ""
+
+#: app/gears/libraries/mvb_tabs.php:63 app/gears/libraries/mvb_tabs.php:68
+msgid "Tab Title"
+msgstr ""
+
+#: app/gears/libraries/mvb_tabs.php:74
+msgid "Selected"
+msgstr ""
+
+#: app/gears/libraries/mvb_tabs.php:82
+msgid "Tab content"
+msgstr ""
+
+#: app/gears/libraries/mvb_testimonials.php:16
+msgid "Testimonials module"
+msgstr ""
+
+#: app/gears/libraries/mvb_testimonials.php:17
+msgid "Add a testimonials section"
+msgstr ""
+
+#: app/gears/libraries/mvb_testimonials.php:63
+msgid "Client Title"
+msgstr ""
+
+#: app/gears/libraries/mvb_testimonials.php:74
+msgid "Client Job"
+msgstr ""
+
+#: app/gears/libraries/mvb_testimonials.php:85
+msgid "Company name"
+msgstr ""
+
+#: app/gears/libraries/mvb_testimonials.php:91
+msgid "Company URL"
+msgstr ""
+
+#: app/gears/libraries/mvb_text.php:16
+msgid "Text module"
+msgstr ""
+
+#: app/gears/libraries/mvb_text.php:17
+msgid "Adds a text block"
+msgstr ""
+
+#: app/gears/libraries/mvb_text.php:67
+msgid "Link on image"
+msgstr ""
+
+#: app/gears/libraries/mvb_text.php:85
+msgid "Before heading"
+msgstr ""
+
+#: app/gears/libraries/mvb_text.php:85
+msgid "After heading"
+msgstr ""
+
+#: app/gears/libraries/mvb_text.php:117
+msgid "Read more text"
+msgstr ""
+
+#: app/gears/libraries/mvb_video.php:16
+msgid "Video module"
+msgstr ""
+
+#: app/gears/libraries/mvb_video.php:17
+msgid "Adds a video"
+msgstr ""
+
+#: app/gears/libraries/mvb_video.php:61 app/gears/libraries/mvb_vimeo.php:61
+#: app/gears/libraries/mvb_youtube.php:61
+msgid "Video URL"
+msgstr ""
+
+#: app/gears/libraries/mvb_vimeo.php:16
+msgid "Vimeo video module"
+msgstr ""
+
+#: app/gears/libraries/mvb_vimeo.php:17
+msgid "Adds a vimeo video"
+msgstr ""
+
+#: app/gears/libraries/mvb_youtube.php:16
+msgid "Youtube video module"
+msgstr ""
+
+#: app/gears/libraries/mvb_youtube.php:17
+msgid "Adds a youtube video"
+msgstr ""
+
+#: app/html/editor.php:2
+msgid "METRO VISUAL BUILDER"
+msgstr ""
+
+#: app/html/editor.php:8
+msgid "Are you sure you want to clear the contents of the editor?"
+msgstr ""
+
+#: app/html/editor.php:8
+msgid "Clear contents"
+msgstr ""
+
+#: app/html/editor.php:19
+msgid "Metro Visual Builder Settings"
+msgstr ""
+
+#: app/html/editor.php:22
+msgid "Activate Metro Visual Builder?"
+msgstr ""
+
+#: app/html/modules.php:2
+msgid "Available modules"
+msgstr ""
+
+#: app/html/modules.php:27
+msgid "go back"
+msgstr ""
+
+#: app/html/module_sections.php:5
+msgid "Content modules"
+msgstr ""
+
+#: app/html/module_sections.php:10
+msgid "Presentation Modules"
+msgstr ""
+
+#: app/html/module_sections.php:15
+msgid "Video Modules"
+msgstr ""
+
+#: app/html/module_sections.php:20
+msgid "Custom Content Modules"
+msgstr ""
+
+#: app/html/module_sections.php:25
+msgid "Social Modules"
+msgstr ""
+
+#: app/html/module_sections.php:30
+msgid "Misc modules"
+msgstr ""
+
+#: app/html/section_types.php:1
+msgid "Choose section style"
+msgstr ""
+
+#: app/html/grids/admin-grid.php:21
+msgid "Full Width"
+msgstr ""
+
+#: app/html/grids/admin-grid.php:26
+msgid "Two columns"
+msgstr ""
+
+#: app/html/grids/admin-grid.php:31
+msgid "Three columns"
+msgstr ""
+
+#: app/html/grids/admin-grid.php:36
+msgid "Four columns"
+msgstr ""
+
+#: app/html/grids/admin-grid.php:41
+msgid "Two columns right bigger"
+msgstr ""
+
+#: app/html/grids/admin-grid.php:46
+msgid "Two columns left bigger"
+msgstr ""
+
+#: app/html/options/mvb_form_column_settings.php:1
+msgid "Columns Settings"
+msgstr ""
+
+#: app/html/options/mvb_form_column_settings.php:2
+msgid "The column settings"
+msgstr ""
+
+#: app/html/options/mvb_form_column_settings.php:11
+#: app/html/options/mvb_form_row_settings.php:11
+#: app/html/private/mvb_form.php:13
+msgid "Save changes"
+msgstr ""
+
+#: app/html/options/mvb_form_row_settings.php:1
+msgid "Row Settings"
+msgstr ""
+
+#: app/html/options/mvb_form_row_settings.php:2
+msgid "The row settings"
+msgstr ""
+
+#: app/html/options/page.php:5
+msgid "Metro Visual Builder - Options"
+msgstr ""
+
+#: app/html/options/page.php:15
+msgid "Show the editor for"
+msgstr ""
+
+#: app/html/options/page.php:24
+msgid "Color scheme"
+msgstr ""
+
+#: app/html/options/page.php:34
+msgid "Grid"
+msgstr ""
+
+#: app/html/options/page.php:40
+msgid "Choose another grid ONLY if your theme uses that grid."
+msgstr ""
+
+#: app/html/options/page.php:45
+msgid "Activate Metro Visual Builder"
+msgstr ""
+
+#: app/html/options/page.php:55
+msgid "Show Metro Visual Builder editor"
+msgstr ""
+
+#: app/html/options/page.php:61
+msgid ""
+"Show the editor in the add/edit page. You can temporarly hide it with this "
+"option."
+msgstr ""
+
+#: app/html/options/page.php:67
+msgid "Save Changes"
+msgstr ""
+
+#: app/html/private/the_pill.php:21
+msgid "Edit module"
+msgstr ""
+
+#: app/html/private/the_pill.php:22
+msgid "Delete module"
+msgstr ""
+
+#: app/html/public/mvb_clients.php:18 app/html/public/mvb_testimonials.php:13
+msgid "prev"
+msgstr ""
+
+#: app/html/public/mvb_clients.php:19 app/html/public/mvb_testimonials.php:14
+msgid "next"
+msgstr ""
+
+#: app/html/public/mvb_document_viewer.php:8
+#: app/html/public/mvb_document_viewer.php:10 app/html/public/mvb_gmaps.php:8
+#: app/html/public/mvb_gmaps.php:10
+msgid "Your browser should support iFrame to view this document"
+msgstr ""
+
+#: app/html/public/mvb_gallery.php:12
+msgid "All"
+msgstr ""
+
+#: app/html/public/mvb_pinterest_follow.php:8
+msgid "Follow Me on Pinterest"
+msgstr ""
+
+#: app/html/public/mvb_rss_feed.php:23
+msgid "No news found"
+msgstr ""
+
+#: app/html/public/mvb_testimonials.php:40
+msgid "URL"
+msgstr ""

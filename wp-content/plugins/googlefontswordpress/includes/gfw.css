@@ -1,0 +1,272 @@
+.gfw-controls{
+	margin-top: 30px;
+	width: 80%;
+}
+
+	.gfw-controls ul{
+		float: left;
+	}
+	
+		.gfw-controls ul li{
+			float: left;
+			margin-right: 10px;
+		}
+		
+			.gfw-controls ul li a{
+				padding: 3px 10px;
+				background: -moz-linear-gradient(center bottom , #E7E7E7, #FFFFFF) repeat scroll 0 0 transparent;
+				border: 1px solid #ccc;
+				-moz-border-radius: 20px;
+				-webkit-border-radius: 20px;
+				text-shadow: 1px 1px #fff;
+				text-decoration: none;
+				color: #555;
+			}
+	
+	.gfw-controls .save-all{
+		overflow: hidden;
+	}
+
+	.gfw-controls .save-all a{
+		display: block;
+		float: right;
+		padding: 3px 10px;
+		background: -moz-linear-gradient(center bottom , #E7E7E7, #FFFFFF) repeat scroll 0 0 transparent;
+		border: 1px solid #ccc;
+		-moz-border-radius: 20px;
+		-webkit-border-radius: 20px;
+		text-shadow: 1px 1px #fff;
+		text-decoration: none;
+		color: #555;
+	}
+	
+		.gfw-controls .save-all a.ajax span{
+			padding-left: 30px;
+			background: url(images/ajaxloader.gif) no-repeat 5px 3px;
+		}
+		
+	#gfw-add-rule a{
+		padding: 5px 10px;
+		font-size: 16px;
+		background: -moz-linear-gradient(center bottom , #E7E7E7, #FFFFFF) repeat scroll 0 0 transparent;
+		border: 1px solid #ccc;
+		-moz-border-radius: 20px;
+		-webkit-border-radius: 20px;
+		text-shadow: 1px 1px #fff;
+		text-decoration: none;
+		color: #555;
+	}
+	
+		#gfw-add-rule{
+			margin: 20px 0;
+		}
+		
+		#gfw-add-rule a span{
+			padding-left: 30px;
+			background: url(images/plus.png) no-repeat 3px 2px;
+		}
+	
+#gfw-font-factory{
+	clear: both;
+}
+
+
+.gfw-rule{
+	width: 80%;
+	min-width: 820px;
+	overflow: hidden;
+}
+
+	.gfw-rule-controls{
+		width: 200px;
+		float: right;
+		text-align: right;
+		padding-right: 10px;
+		position: relative;
+		top: 27px;
+	}
+	
+		.gfw-rule-controls .collapse, .gfw-rule-controls .delete{
+			cursor: pointer;
+		}
+
+	.gfw-rule fieldset{
+		clear: both;
+		border: 1px solid #ccc;
+		padding: 10px;
+		-moz-border-radius: 5px 5px 5px 5px;
+		-webkit-border-radius: 5px 5px 5px 5px;
+	}
+	
+		.gfw-rule fieldset label{
+			display: block;
+			margin: 5px 0 5px 3px;
+			font-size: 10px;
+			color: #777;
+			cursor: default;
+		}
+		
+		.gfw-rule fieldset select{
+			font-size: 12px !important;
+		}
+	
+		.gfw-rule fieldset legend{
+			padding-left: 5px;
+			padding-right: 0px;
+		}
+		
+			.gfw-rule fieldset legend.focused{
+				background: #eee !important;
+			}
+		
+			.gfw-selector-wrap{
+				display: block;
+				overflow: hidden;
+				width: 50px;
+				padding-right: 5px;
+				min-width: 20px;
+				
+			}
+			
+			.gfw-selector, .gfw-selector-prototype, .gfw-rule-collapsed{
+				border: none !important;
+				background: transparent !important;
+				color: #333;
+			    font-size: 18px;
+			    text-shadow: 1px 1px #fff;
+			}
+			
+			.gfw-selector{
+				width: 800px;
+				position: relative;
+			}
+			
+			.gfw-selector-prototype{
+				display: none;
+			}
+			
+			.gfw-rule-collapsed{
+				height: 20px;
+				display: none;
+				padding-left: 11px;
+				margin-top: 27px;
+				background: url(images/line.gif) repeat-x 0 8px !important;
+			}
+			
+				.gfw-rule-collapsed span{
+					background: #f9f9f9;
+					padding-left: 10px;
+					padding-right: 10px;
+				}
+	
+.gfw-font-settings{
+	width: 40%;
+	float: left;
+}
+
+	.gfw-font-wrap{
+		clear: both;
+	}
+
+		.gfw-font-family-wrap{
+			float: left;
+		}
+		
+			.gfw-font-family{
+				width: 200px;
+			}
+	
+		.gfw-font-variant-wrap{
+			float: left;
+			margin-left: 10px;
+		}
+		
+			.gfw-font-variant{
+				width: 95px;
+			}
+
+	.gfw-font-outfit-wrap{
+		float: left;
+		margin-top: 5px;
+	}
+
+		.gfw-font-size-wrap{
+			float: left;
+		}
+	
+			.gfw-font-size-slider{
+				font-size: 10px !important;
+				width: 195px;
+				margin-left: 5px;
+				margin-top: 10px;
+			}
+
+		.gfw-font-color-outer-wrap{
+			float: left;
+			margin-left: 10px;
+		}
+		
+			.gfw-font-color-wrap{
+				padding: 2px 0 3px 6px;
+				background: #fff;
+				-moz-border-radius: 3px;
+				border: 1px solid #dfdfdf;
+			}
+	
+				.gfw-font-color-wrap label{
+					display: inline !important;
+					vertical-align: baseline;
+					margin: 0 !important;
+					color: #777;
+				}
+		
+			.gfw-font-color{
+				background: transparent !important;
+				border: none !important;
+				text-transform: uppercase;
+				margin: 0 0 0 -2px;
+				padding-left: 0;
+			}
+			
+			.gfw-colorwheel{
+				position: relative;
+				top: 3px;
+				left: 2px;
+				cursor: pointer;
+			}
+			
+		.gfw-font-spacing{
+			margin-top: 5px;
+			float: left;
+		}			
+		
+		.gfw-spacing-line-wrap, .gfw-spacing-word-wrap, .gfw-spacing-letter-wrap{
+			float: left;
+			width: 106px;
+		}	
+		
+			.gfw-spacing-line, .gfw-spacing-word, .gfw-spacing-letter{
+				font-size: 10px !important;
+				width: 90px;
+				margin-left: 5px;
+				margin-top: 10px;
+			}
+
+.gfw-font-preview{
+	width: 60%;
+	float: right;
+	
+}
+
+	.gfw-font-summary{
+		float: right;
+		font-weight: bold;
+	}
+	.gfw-font-summary .fontsize{}
+
+	.gfw-font-preview textarea{
+		width: 100%;
+		height: 140px;
+		padding: 10px;
+		overflow: hidden;
+	}
